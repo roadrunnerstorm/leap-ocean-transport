@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "i"
+    ],
+    "axis": "X",
+    "long_name": "x-dimension of the t grid",
+    "standard_name": "x_grid_index",
+    "swap_dim": "XC"
+}
