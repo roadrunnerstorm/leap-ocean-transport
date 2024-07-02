@@ -1,4 +1,3 @@
-# leap-ocean-transport
 # LEAP Project: Air-Sea Interactions
 The air-sea interface, where the Earth's atmosphere meets the ocean, is very dynamic and critical for the coupled climate
 system. This interface plays a central role in regulating long term climate, shaping weather, and maintaining marine
