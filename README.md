@@ -11,3 +11,6 @@ simulations, and use machine learning methods (like symbolic regression) to find
 between the impacts of this heterogeneity on the large scale atmosphere-ocean exchange and the large scale flow features
 in the atmosphere and ocean. These projects aim to teach students about important processes in air-sea exchange and
 climate science, and help them develop physical intuition and data-driven models for these processes.
+
+
+<img width="1423" alt="proj5" src="https://github.com/roadrunnerstorm/leap-ocean-transport/assets/166883151/a8ff671d-29d1-4a7e-b2f6-91fe46baeaad">
